@@ -1,0 +1,2 @@
+- npm run app-install - installs application dependencies
+- npm rim app-run - runs the application on port 8080
